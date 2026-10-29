@@ -113,7 +113,7 @@ Prérequis : MATLAB, Simulink, Stateflow, Embedded Coder, AUTOSAR Blockset.
 ## Validation
 
 - [x] Simulation des modèles Simulink et Stateflow
-- [ ] Génération du code C et des fichiers ARXML
+- [x] Génération du code C et des fichiers ARXML
 - [ ] Comparaison modèle / code généré (MIL contre SIL)
 - [ ] Tests unitaires des runnables
 
